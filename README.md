@@ -8,6 +8,11 @@ Front-End Todo List
 - [ ] Test app that it is running
 - [ ] Add required dependencies
 - [ ] Needs to be connected to the Back-End
-- [ ] Login / Signup Pages
+- [ ] Login Pages
+  - [ ] Add Form
+  - [ ] Connect Form
+- [ ] Signup Page
+  - [ ] Add Form
+  - [ ] Connect Form
 - [ ] Able to Logout
-- [ ] Create Navigation 
+- [ ] Create Navigation
